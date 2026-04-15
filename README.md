@@ -98,9 +98,6 @@ your_dataset_root/
 │   ├── image_002.jpg
 │   └── ...
 └── generated_images/
-    ├── image_001_n.jpg
-    ├── image_002_n.jpg
-    └── ...
 ```
 2. The json format of captions should be like this:
 ```shell
