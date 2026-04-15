@@ -75,9 +75,6 @@ model, preprocess = dreamsim(pretrained=True, device=device)
 
 3. Download Qwen3-VL-8B-Instruct checkpoints from 🤗[Qwen3-VL-8B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct),
 and put the files in `./models/Qwen3-VL-8B-Instruct`.
-   
-## Data Preparation
-We perform all experiments based on our proposed dataset RemoteSAM-270K. 
 
 ## ReconScore
 
