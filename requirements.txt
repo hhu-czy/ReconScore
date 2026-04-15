@@ -1,0 +1,5 @@
+Pillow
+transformers
+accelerate
+dreamsim
+qwen-vl-utils==0.0.14
