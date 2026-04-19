@@ -43,7 +43,7 @@ conda create -n ReconScore python==3.10
 conda activate ReconScore
 ```
 
-2. Install PyTorch v2.5.1 with a CUDA version that works on your cluster/machine (CUDA 12.1 is used in this example):
+2. Install PyTorch v2.6.0 with a CUDA version that works on your cluster/machine (CUDA 12.4 is used in this example):
 ```shell
 pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
 ```
